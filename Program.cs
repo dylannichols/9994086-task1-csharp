@@ -11,7 +11,7 @@ namespace _9994086_task1_csharp
             
             // Tell user what to do
             string lineBreak = "-----------------------------------------------------";
-            Console.WriteLine("This program converts between celsius and fahrenheit, you will be asked for a unit then asked for a temperature");
+            Console.WriteLine("This program converts between celsius and fahrenheit, you will be asked for a unit then asked for a temperature\n");
             Console.WriteLine(lineBreak);
             Console.WriteLine("\nType F to convert to Fahrenheit. Type C to convert to Celsius:");
             
